@@ -1,0 +1,10 @@
+zsd-brain/
+├── app.py
+├── my_singing_dataset/
+│   ├── .gitkeep          ← keep folders in git
+│   ├── wavs/
+│   │   └── .gitkeep
+│   ├── transcripts/
+│   │   └── segment_001.txt  ← you CAN push small txt/mid files
+│   └── midis/
+│       └── segment_001.mid
